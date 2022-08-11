@@ -1,0 +1,31 @@
+BOM_JLC (c) andreika, 2020.
+Checking BOM file for JLCPCB stock & prices!
+DISCLAIMER: All data output is estimated and advisory, use it on your own risk! Please see LICENSE...
+
+* BOM file: test-bom.csv
+* Number of Boards: 5
+* Manufacturing cost: $9, Additional cost for each expanded part: $3
+* Current time: 2020-02-08 12:33:55
+[1] C14663 Stock=6015332 Price=$0.007 [Min:1] x 65pcs (base)
+[2] C1779 Stock=200817 Price=$0.017 [Min:1] x 20pcs (base)
+[3] C1647 Stock=70481 Price=$0.0066 [Min:1] x 10pcs (base)
+[4] C85364 Stock=38251 Price=$0.1595 [Min:1] x 5pcs (base)
+[5] C2286 Stock=816767 Price=$0.0079 [Min:1] x 5pcs (base)
+[6] C72043 Stock=469612 Price=$0.0407 [Min:1] x 5pcs (base)
+[7] C72041 Stock=383032 Price=$0.0267 [Min:1] x 5pcs (base)
+[8] C72038 Stock=86853 Price=$0.0314 [Min:1] x 5pcs (base)
+[9] C1034 Stock=13537 Price=$0.0142 [Min:1] x 5pcs (base)
+[10] C145795 Stock=0 Price=$0 [Min:0] x 5pcs 
+  *** WARNING! Not in stock!
+[11] C168945 Stock=0 Price=$0 [Min:0] x 5pcs 
+  *** WARNING! Not in stock!
+[12] C15127 Stock=72794 Price=$0.088 [Min:1] x 5pcs (base)
+[13] C25804 Stock=8797280 Price=$0.0015 [Min:1] x 30pcs (base)
+[14] C22843 Stock=476098 Price=$0.0016 [Min:1] x 25pcs (base)
+[15] C25190 Stock=10500 Price=$0.0021 [Min:1] x 10pcs (base)
+[16] C150497 Stock=1695 Price=$0.0895 [Min:5] x 5pcs +$3(exp)
+[17] C5446 Stock=18565 Price=$0.101 [Min:1] x 5pcs (base)
+[18] C115962 Stock=255086 Price=$0.1707 [Min:1] x 5pcs (base)
+
+Total Manufacturing+Assembly Cost for 1 Board = $3.32 (And $16.62 Total for 5 boards.)
+*** WARNING! Some parts are not in stock!
