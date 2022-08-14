@@ -1,7 +1,5 @@
-Miata NA
+# FUGU-ARDUINO-MPPT-HARDWARE-KICAD
+An open source Arduino ESP32 MPPT Solar Charge Controller firmware equipped with charging algorithms, WiFi, LCD menus &amp; more!
+Stay tuned for the design release and video tutorial.
 
-2 layer
-
-154x162mm
-
-User documentation https://github.com/rusefi/rusefi/wiki/MREAdapter48
+Orginal project found here https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE
