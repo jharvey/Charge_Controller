@@ -1,4 +1,4 @@
-update=5/31/2020 9:25:24 AM
+update=8/13/2022 10:56:44 AM
 version=1
 last_client=kicad
 [general]
@@ -14,7 +14,7 @@ LibDir=
 [eeschema/libraries]
 [schematic_editor]
 version=1
-PageLayoutDescrFile=kicad-libraries/Border.kicad_wks
+PageLayoutDescrFile=Border.kicad_wks
 PlotDirectoryName=export/V0.2/
 SubpartIdSeparator=0
 SubpartFirstId=65
@@ -24,7 +24,7 @@ LabSize=50
 ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
-PageLayoutDescrFile=kicad-libraries/Border.kicad_wks
+PageLayoutDescrFile=Border.kicad_wks
 LastNetListRead=hw48na.net
 CopperLayerCount=2
 BoardThickness=1.6
@@ -87,7 +87,7 @@ OthersTextUpright=1
 SolderMaskClearance=7.599999999999999e-05
 SolderMaskMinWidth=0
 SolderPasteClearance=0
-SolderPasteRatio=-0
+SolderPasteRatio=0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
