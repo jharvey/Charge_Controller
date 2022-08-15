@@ -368,8 +368,10 @@ U 1 1 62F74FFD
 P 9575 6525
 F 0 "R35" V 9525 6250 50  0000 C CNN
 F 1 "10k_-tc" V 9625 6200 50  0000 C CNN
-F 2 "" H 9575 6575 50  0001 C CNN
+F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 9575 6575 50  0001 C CNN
 F 3 "~" H 9575 6575 50  0001 C CNN
+F 4 "BC2380-ND" H 9575 6525 50  0001 C CNN "Digikey"
+F 5 "NA" H 9575 6525 50  0001 C CNN "jlcpcb"
 	1    9575 6525
 	0    1    1    0   
 $EndComp
@@ -561,6 +563,7 @@ F 0 "J19" H 8000 2175 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7817 2041 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7925 2175 50  0001 C CNN
 F 3 "~" H 7925 2175 50  0001 C CNN
+F 4 "NA" H 7925 2175 50  0001 C CNN "jlcpcb"
 	1    7925 2175
 	-1   0    0    1   
 $EndComp
@@ -593,6 +596,7 @@ F 0 "J20" H 8000 2375 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7817 2241 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7925 2375 50  0001 C CNN
 F 3 "~" H 7925 2375 50  0001 C CNN
+F 4 "NA" H 7925 2375 50  0001 C CNN "jlcpcb"
 	1    7925 2375
 	-1   0    0    1   
 $EndComp
@@ -604,6 +608,7 @@ F 0 "J32" H 9300 2175 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9117 2041 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9225 2175 50  0001 C CNN
 F 3 "~" H 9225 2175 50  0001 C CNN
+F 4 "NA" H 9225 2175 50  0001 C CNN "jlcpcb"
 	1    9225 2175
 	1    0    0    -1  
 $EndComp
@@ -623,6 +628,7 @@ F 0 "J31" H 9300 2075 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9117 1941 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9225 2075 50  0001 C CNN
 F 3 "~" H 9225 2075 50  0001 C CNN
+F 4 "NA" H 9225 2075 50  0001 C CNN "jlcpcb"
 	1    9225 2075
 	1    0    0    -1  
 $EndComp
@@ -634,6 +640,7 @@ F 0 "J30" H 9300 1975 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9117 1841 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9225 1975 50  0001 C CNN
 F 3 "~" H 9225 1975 50  0001 C CNN
+F 4 "NA" H 9225 1975 50  0001 C CNN "jlcpcb"
 	1    9225 1975
 	1    0    0    -1  
 $EndComp
@@ -645,6 +652,7 @@ F 0 "J29" H 9300 1875 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9117 1741 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9225 1875 50  0001 C CNN
 F 3 "~" H 9225 1875 50  0001 C CNN
+F 4 "NA" H 9225 1875 50  0001 C CNN "jlcpcb"
 	1    9225 1875
 	1    0    0    -1  
 $EndComp
@@ -656,6 +664,7 @@ F 0 "J18" H 8000 1675 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7817 1541 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7925 1675 50  0001 C CNN
 F 3 "~" H 7925 1675 50  0001 C CNN
+F 4 "NA" H 7925 1675 50  0001 C CNN "jlcpcb"
 	1    7925 1675
 	-1   0    0    1   
 $EndComp
@@ -871,6 +880,7 @@ F 0 "J10" H 7450 4050 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 3916 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 4050 50  0001 C CNN
 F 3 "~" H 7375 4050 50  0001 C CNN
+F 4 "NA" H 7375 4050 50  0001 C CNN "jlcpcb"
 	1    7375 4050
 	-1   0    0    1   
 $EndComp
@@ -882,6 +892,7 @@ F 0 "J11" H 7450 4150 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 4016 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 4150 50  0001 C CNN
 F 3 "~" H 7375 4150 50  0001 C CNN
+F 4 "NA" H 7375 4150 50  0001 C CNN "jlcpcb"
 	1    7375 4150
 	-1   0    0    1   
 $EndComp
@@ -893,6 +904,7 @@ F 0 "J12" H 7450 5050 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 4916 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5050 50  0001 C CNN
 F 3 "~" H 7375 5050 50  0001 C CNN
+F 4 "NA" H 7375 5050 50  0001 C CNN "jlcpcb"
 	1    7375 5050
 	-1   0    0    1   
 $EndComp
@@ -904,6 +916,7 @@ F 0 "J13" H 7450 5150 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 5016 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5150 50  0001 C CNN
 F 3 "~" H 7375 5150 50  0001 C CNN
+F 4 "NA" H 7375 5150 50  0001 C CNN "jlcpcb"
 	1    7375 5150
 	-1   0    0    1   
 $EndComp
@@ -915,6 +928,7 @@ F 0 "J14" H 7450 5250 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 5116 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5250 50  0001 C CNN
 F 3 "~" H 7375 5250 50  0001 C CNN
+F 4 "NA" H 7375 5250 50  0001 C CNN "jlcpcb"
 	1    7375 5250
 	-1   0    0    1   
 $EndComp
@@ -926,6 +940,7 @@ F 0 "J15" H 7450 5350 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 5216 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5350 50  0001 C CNN
 F 3 "~" H 7375 5350 50  0001 C CNN
+F 4 "NA" H 7375 5350 50  0001 C CNN "jlcpcb"
 	1    7375 5350
 	-1   0    0    1   
 $EndComp
@@ -937,6 +952,7 @@ F 0 "J16" H 7450 5450 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 5316 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5450 50  0001 C CNN
 F 3 "~" H 7375 5450 50  0001 C CNN
+F 4 "NA" H 7375 5450 50  0001 C CNN "jlcpcb"
 	1    7375 5450
 	-1   0    0    1   
 $EndComp
@@ -948,6 +964,7 @@ F 0 "J17" H 7450 5550 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 7267 5416 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 7375 5550 50  0001 C CNN
 F 3 "~" H 7375 5550 50  0001 C CNN
+F 4 "NA" H 7375 5550 50  0001 C CNN "jlcpcb"
 	1    7375 5550
 	-1   0    0    1   
 $EndComp
@@ -959,6 +976,7 @@ F 0 "J22" H 9475 4350 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4216 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4350 50  0001 C CNN
 F 3 "~" H 9400 4350 50  0001 C CNN
+F 4 "NA" H 9400 4350 50  0001 C CNN "jlcpcb"
 	1    9400 4350
 	1    0    0    -1  
 $EndComp
@@ -970,6 +988,7 @@ F 0 "J21" H 9475 4250 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4116 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4250 50  0001 C CNN
 F 3 "~" H 9400 4250 50  0001 C CNN
+F 4 "NA" H 9400 4250 50  0001 C CNN "jlcpcb"
 	1    9400 4250
 	1    0    0    -1  
 $EndComp
@@ -981,6 +1000,7 @@ F 0 "J27" H 9475 5550 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 5416 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 5550 50  0001 C CNN
 F 3 "~" H 9400 5550 50  0001 C CNN
+F 4 "NA" H 9400 5550 50  0001 C CNN "jlcpcb"
 	1    9400 5550
 	1    0    0    -1  
 $EndComp
@@ -992,6 +1012,7 @@ F 0 "J26" H 9475 4750 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4616 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4750 50  0001 C CNN
 F 3 "~" H 9400 4750 50  0001 C CNN
+F 4 "NA" H 9400 4750 50  0001 C CNN "jlcpcb"
 	1    9400 4750
 	1    0    0    -1  
 $EndComp
@@ -1003,6 +1024,7 @@ F 0 "J25" H 9475 4650 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4516 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4650 50  0001 C CNN
 F 3 "~" H 9400 4650 50  0001 C CNN
+F 4 "NA" H 9400 4650 50  0001 C CNN "jlcpcb"
 	1    9400 4650
 	1    0    0    -1  
 $EndComp
@@ -1014,6 +1036,7 @@ F 0 "J24" H 9475 4550 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4416 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4550 50  0001 C CNN
 F 3 "~" H 9400 4550 50  0001 C CNN
+F 4 "NA" H 9400 4550 50  0001 C CNN "jlcpcb"
 	1    9400 4550
 	1    0    0    -1  
 $EndComp
@@ -1025,6 +1048,7 @@ F 0 "J23" H 9475 4450 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 4316 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 4450 50  0001 C CNN
 F 3 "~" H 9400 4450 50  0001 C CNN
+F 4 "NA" H 9400 4450 50  0001 C CNN "jlcpcb"
 	1    9400 4450
 	1    0    0    -1  
 $EndComp
@@ -1036,6 +1060,7 @@ F 0 "J28" H 9475 5650 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 9292 5516 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 9400 5650 50  0001 C CNN
 F 3 "~" H 9400 5650 50  0001 C CNN
+F 4 "NA" H 9400 5650 50  0001 C CNN "jlcpcb"
 	1    9400 5650
 	1    0    0    -1  
 $EndComp
@@ -1565,9 +1590,10 @@ U 1 1 6325F03C
 P 4725 6000
 F 0 "L1" H 4850 5950 50  0000 C CNN
 F 1 "64uH" H 4650 5950 50  0000 C CNN
-F 2 "" H 4725 6000 50  0001 C CNN
+F 2 "Inductor_THT:L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A" H 4725 6000 50  0001 C CNN
 F 3 "~" H 4725 6000 50  0001 C CNN
 F 4 "36A" H 4725 5875 50  0000 C CNN "Field4"
+F 5 "NA" H 4725 6000 50  0001 C CNN "jlcpcb"
 	1    4725 6000
 	1    0    0    -1  
 $EndComp
@@ -1609,24 +1635,28 @@ F 4 "C2960" H 3300 5800 50  0001 C CNN "jlcpcb"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Male J1
+L Connector:Conn_01x01_Male J1
 U 1 1 6328B187
 P 700 6000
-F 0 "J1" H 650 5850 50  0000 C CNN
+F 0 "J1" H 650 6050 50  0000 C CNN
 F 1 "SOLAR" H 650 5950 50  0000 C CNN
-F 2 "" H 700 6000 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 700 6000 50  0001 C CNN
 F 3 "~" H 700 6000 50  0001 C CNN
+F 4 "277-13746-ND" H 700 6000 50  0001 C CNN "Digikey"
+F 5 "NA" H 700 6000 50  0001 C CNN "jlcpcb"
 	1    700  6000
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:Conn_01x02_Male J8
+L Connector:Conn_01x01_Male J8
 U 1 1 6328BFE1
 P 6850 6000
-F 0 "J8" H 6975 5825 50  0000 R CNN
+F 0 "J8" H 6825 6050 50  0000 R CNN
 F 1 "BATT" H 6875 5950 50  0000 R CNN
-F 2 "" H 6850 6000 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 6850 6000 50  0001 C CNN
 F 3 "~" H 6850 6000 50  0001 C CNN
+F 4 "277-13746-ND" H 6850 6000 50  0001 C CNN "Digikey"
+F 5 "NA" H 6850 6000 50  0001 C CNN "jlcpcb"
 	1    6850 6000
 	-1   0    0    -1  
 $EndComp
@@ -1638,6 +1668,7 @@ F 0 "J3" H 3400 1000 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 3217 866 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 3325 1000 50  0001 C CNN
 F 3 "~" H 3325 1000 50  0001 C CNN
+F 4 "NA" H 3325 1000 50  0001 C CNN "jlcpcb"
 	1    3325 1000
 	1    0    0    -1  
 $EndComp
@@ -1649,6 +1680,7 @@ F 0 "J7" H 4425 1900 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 4242 1766 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 4350 1900 50  0001 C CNN
 F 3 "~" H 4350 1900 50  0001 C CNN
+F 4 "NA" H 4350 1900 50  0001 C CNN "jlcpcb"
 	1    4350 1900
 	1    0    0    -1  
 $EndComp
@@ -1660,6 +1692,7 @@ F 0 "J2" H 3300 1650 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 3117 1516 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 3225 1650 50  0001 C CNN
 F 3 "~" H 3225 1650 50  0001 C CNN
+F 4 "NA" H 3225 1650 50  0001 C CNN "jlcpcb"
 	1    3225 1650
 	0    -1   -1   0   
 $EndComp
@@ -1673,6 +1706,7 @@ F 0 "J5" H 4225 2200 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 4042 2066 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 4150 2200 50  0001 C CNN
 F 3 "~" H 4150 2200 50  0001 C CNN
+F 4 "NA" H 4150 2200 50  0001 C CNN "jlcpcb"
 	1    4150 2200
 	1    0    0    -1  
 $EndComp
@@ -1685,6 +1719,7 @@ F 0 "J6" H 4225 2275 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 4042 2141 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 4150 2275 50  0001 C CNN
 F 3 "~" H 4150 2275 50  0001 C CNN
+F 4 "NA" H 4150 2275 50  0001 C CNN "jlcpcb"
 	1    4150 2275
 	1    0    0    -1  
 $EndComp
@@ -2464,6 +2499,7 @@ F 0 "J4" H 4125 1150 50  0000 C CNN
 F 1 "Conn_01x01_Female" H 3942 1016 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Loop_D3.50mm_Drill0.9mm_Beaded" H 4050 1150 50  0001 C CNN
 F 3 "~" H 4050 1150 50  0001 C CNN
+F 4 "NA" H 4050 1150 50  0001 C CNN "jlcpcb"
 	1    4050 1150
 	-1   0    0    1   
 $EndComp
@@ -2690,9 +2726,10 @@ L Device:Q_PMOS_GDS Q8
 U 1 1 63BCB66F
 P 6400 6100
 F 0 "Q8" V 6742 6100 50  0000 C CNN
-F 1 "Q_PMOS_GDS" V 6651 6100 50  0000 C CNN
-F 2 "" H 6600 6200 50  0001 C CNN
+F 1 "PMOS-100V-90A" V 6651 6100 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:TO-263-2" H 6600 6200 50  0001 C CNN
 F 3 "~" H 6400 6100 50  0001 C CNN
+F 4 "C468007" H 6400 6100 50  0001 C CNN "jlcpcb"
 	1    6400 6100
 	0    1    -1   0   
 $EndComp
@@ -2706,8 +2743,9 @@ U 1 1 63C245C6
 P 6200 6100
 F 0 "D10" V 6275 6275 50  0000 R CNN
 F 1 "D_Zener_Small" V 6245 6168 50  0001 L CNN
-F 2 "" V 6200 6100 50  0001 C CNN
+F 2 "Diode_SMD:D_MELF-RM10_Universal_Handsoldering" V 6200 6100 50  0001 C CNN
 F 3 "~" V 6200 6100 50  0001 C CNN
+F 4 "C8062" H 6200 6100 50  0001 C CNN "jlcpcb"
 	1    6200 6100
 	0    -1   1    0   
 $EndComp
@@ -2742,9 +2780,10 @@ L Device:Q_PMOS_GDS Q7
 U 1 1 63CA87F3
 P 1100 6100
 F 0 "Q7" V 1442 6100 50  0000 C CNN
-F 1 "Q_PMOS_GDS" V 1351 6100 50  0000 C CNN
-F 2 "" H 1300 6200 50  0001 C CNN
+F 1 "PMOS-100V-90A" V 1350 6275 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:TO-263-2" H 1300 6200 50  0001 C CNN
 F 3 "~" H 1100 6100 50  0001 C CNN
+F 4 "C468007" H 1100 6100 50  0001 C CNN "jlcpcb"
 	1    1100 6100
 	0    -1   -1   0   
 $EndComp
@@ -2754,8 +2793,9 @@ U 1 1 63CA87FD
 P 1300 6100
 F 0 "D9" V 1375 6275 50  0000 R CNN
 F 1 "D_Zener_Small" V 1345 6168 50  0001 L CNN
-F 2 "" V 1300 6100 50  0001 C CNN
+F 2 "Diode_SMD:D_MELF-RM10_Universal_Handsoldering" V 1300 6100 50  0001 C CNN
 F 3 "~" V 1300 6100 50  0001 C CNN
+F 4 "C8062" H 1300 6100 50  0001 C CNN "jlcpcb"
 	1    1300 6100
 	0    1    1    0   
 $EndComp
@@ -2793,8 +2833,34 @@ Text Notes 1425 6025 0    50   ~ 0
 REVERSE \nPOLARITY\nPROTECTION
 Text Notes 6100 6900 0    50   ~ 0
 REVERSE \nPOLARITY\nPROTECTION
-Text Notes 6850 6350 0    50   ~ 0
+Text Notes 7025 6125 0    50   ~ 0
 12V TO 50V\n30A
 Text Notes 650  7100 0    50   ~ 0
 80V BATTERY\n30A
+$Comp
+L Connector:Conn_01x01_Male J33
+U 1 1 63DCA583
+P 700 6100
+F 0 "J33" H 650 6050 50  0001 C CNN
+F 1 "SOLAR" H 650 6050 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 700 6100 50  0001 C CNN
+F 3 "~" H 700 6100 50  0001 C CNN
+F 4 "NA" H 700 6100 50  0001 C CNN "Digikey"
+F 5 "NA" H 700 6100 50  0001 C CNN "jlcpcb"
+	1    700  6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x01_Male J34
+U 1 1 63DCBC6A
+P 6850 6100
+F 0 "J34" H 6825 6050 50  0001 R CNN
+F 1 "BATT" H 6875 6050 50  0001 R CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 6850 6100 50  0001 C CNN
+F 3 "~" H 6850 6100 50  0001 C CNN
+F 4 "NA" H 6850 6100 50  0001 C CNN "Digikey"
+F 5 "NA" H 6850 6100 50  0001 C CNN "jlcpcb"
+	1    6850 6100
+	-1   0    0    -1  
+$EndComp
 $EndSCHEMATC
