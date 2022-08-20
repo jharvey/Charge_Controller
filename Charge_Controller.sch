@@ -1633,14 +1633,14 @@ $EndComp
 $Comp
 L Connector:Conn_01x01_Male J1
 U 1 1 6328B187
-P 700 6000
-F 0 "J1" H 650 6050 50  0000 C CNN
-F 1 "SOLAR" H 650 5950 50  0000 C CNN
-F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 700 6000 50  0001 C CNN
-F 3 "~" H 700 6000 50  0001 C CNN
-F 4 "277-13746-ND" H 700 6000 50  0001 C CNN "Digikey"
-F 5 "NA" H 700 6000 50  0001 C CNN "jlcpcb"
-	1    700  6000
+P 675 6000
+F 0 "J1" H 625 6050 50  0000 C CNN
+F 1 "SOLAR" H 625 5950 50  0000 C CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 675 6000 50  0001 C CNN
+F 3 "~" H 675 6000 50  0001 C CNN
+F 4 "277-13746-ND" H 675 6000 50  0001 C CNN "Digikey"
+F 5 "NA" H 675 6000 50  0001 C CNN "jlcpcb"
+	1    675  6000
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2829,14 +2829,14 @@ Text Notes 650  7100 0    50   ~ 0
 $Comp
 L Connector:Conn_01x01_Male J33
 U 1 1 63DCA583
-P 700 6100
-F 0 "J33" H 650 6050 50  0001 C CNN
-F 1 "SOLAR" H 650 6050 50  0001 C CNN
-F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 700 6100 50  0001 C CNN
-F 3 "~" H 700 6100 50  0001 C CNN
-F 4 "NA" H 700 6100 50  0001 C CNN "Digikey"
-F 5 "NA" H 700 6100 50  0001 C CNN "jlcpcb"
-	1    700  6100
+P 675 6100
+F 0 "J33" H 625 6050 50  0001 C CNN
+F 1 "SOLAR" H 625 6050 50  0001 C CNN
+F 2 "TestPoint:TestPoint_Keystone_5005-5009_Compact" H 675 6100 50  0001 C CNN
+F 3 "~" H 675 6100 50  0001 C CNN
+F 4 "NA" H 675 6100 50  0001 C CNN "Digikey"
+F 5 "NA" H 675 6100 50  0001 C CNN "jlcpcb"
+	1    675  6100
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -3120,4 +3120,28 @@ Wire Wire Line
 	7150 1500 8225 1500
 Wire Wire Line
 	5525 7650 5525 7825
+Wire Wire Line
+	875  6000 900  6000
+Wire Wire Line
+	875  6100 900  6100
+Text Label 875  6000 0    50   ~ 0
+S+
+Text Label 925  5425 0    50   ~ 0
+S+Polarity
+Text Label 1450 4550 0    50   ~ 0
+S+Fused
+Text Label 650  2850 0    50   ~ 0
+S+B+1A
+Text Label 6600 6000 0    50   ~ 0
+B+
+Text Label 5900 6000 0    50   ~ 0
+B+Polarity
+Text Label 5025 6000 0    50   ~ 0
+B+Fused
+Text Label 2375 4550 0    50   ~ 0
+S+Fused2
+Text Label 3800 4550 0    50   ~ 0
+S+Fused3
+Text Label 4175 6000 0    50   ~ 0
+BuckFB
 $EndSCHEMATC
