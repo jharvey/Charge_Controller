@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name Phoenix_10.16_terminal_1709681)(type KiCad)(uri ${KIPRJMOD}/Lib/Phoenix_10.16_terminal_1709681.pretty)(options "")(descr ""))
+  (lib (name "Phoenix_10.16_terminal_1709681")(type "KiCad")(uri "${KIPRJMOD}/Lib/Phoenix_10.16_terminal_1709681.pretty")(options "")(descr ""))
+  (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/lib/LCD.pretty")(options "")(descr ""))
 )

@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.09982,
-          "height": 1.50622,
-          "width": 1.50622
+          "drill": 2.159,
+          "height": 2.9972,
+          "width": 2.9972
         },
         "silk_line_width": 0.25,
         "silk_text_italic": false,
@@ -557,7 +557,7 @@
       "idf": "",
       "netlist": "hw48na.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "export/V0.1/Charge_Controller.step",
       "vrml": ""
     },
     "page_layout_descr_file": "Border.kicad_wks"

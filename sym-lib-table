@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "LCM-S01602DTR_A")(type "Legacy")(uri "${KIPRJMOD}/Lib/LCM-S01602DTR_A.lib")(options "")(descr ""))
 )
