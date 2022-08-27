@@ -1,0 +1,13 @@
+Reference,Quantity,Value,Footprint,Datasheet,Field4,LCSC,Digikey
+J1,1,SOLAR,Phoenix_10.16_terminal_1709681:Phoenix_10.16_terminal_1709681,,,NA,277-13746-ND
+J36,1,FAN,Phoenix_10.16_terminal_1709681:Phoenix_10.16_terminal_1709681,,,NA,277-13746-ND
+J8,1,BATT,Phoenix_10.16_terminal_1709681:Phoenix_10.16_terminal_1709681,,,NA,277-13746-ND
+DS1,1,LCD,LCD:LCD_LCM-S01602DTR_A,,,NA,3387-ACM1602K-NLW-BBW-ND
+F1 F2,2,35A,Fuse:Fuseholder_Blade_Mini_Keystone_3568,,,NA,36-3568-10-ND
+C18,1,4.7uf,Capacitor_THT:CP_Radial_D10.0mm_P5.00mm,,100v,NA,399-ESH107M100AH4AA-ND
+C7 C8,2,470uf,Capacitor_THT:CP_Axial_L30.0mm_D18.0mm_P35.00mm_Horizontal,,100v,NA,4100PHBK-ND
+HS1,1,Heatsink,Heatsink:Heatsink_Stonecold_HS-132_32x14mm_2xFixation1.5mm,,,NA,AE10798-ND
+R35,1,10k_-tc,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,,,NA,BC2380-ND
+
+Toroid??
+Magnetic Wire ???
