@@ -20,7 +20,7 @@ J36 ,1,FAN,Phoenix_10.16_terminal_1709681:Phoenix_10.16_terminal_1709681,,,NA,27
 J38 ,1,I2C_CON,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,,,NA,
 J8 ,1,BATT,Phoenix_10.16_terminal_1709681:Phoenix_10.16_terminal_1709681,,,NA,277-13746-ND
 J9 ,1,USB_OTG,Connector_USB:USB_Micro-AB_Molex_47590-0001,,,C136001,
-L1 ,1,64uH,Inductor_THT:L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A,,36A,NA,
+L1 ,1,64uH,Inductor_THT:L_Axial_L30.0mm_D8.0mm_P35.56mm_Horizontal_Fastron_77A,,36A,NA,495-5076-ND
 L2 L3 ,2,100uH,Inductor_SMD:L_Taiyo-Yuden_NR-60xx_HandSoldering,,0.5A,C88132,
 LED1 LED2 ,2,LED,LED_SMD:LED_0805_2012Metric,,,C84256,
 LOGO1 ,1,Logo_Open_Hardware_Small,Symbol:OSHW-Symbol_6.7x6mm_SilkScreen,,,NA,
@@ -48,7 +48,7 @@ SW4 ,1,SELECT,Button_Switch_SMD:SW_SPST_EVQQ2,,,C318884,
 U1 ,1,ACS712-30A,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,http://www.allegromicro.com/~/media/Files/Datasheets/ACS712-Datasheet.ashx?la=en,,C9932,
 U10 ,1,ADS1015,Package_SO:TSSOP-10_3x3mm_P0.5mm,http://www.ti.com/lit/ds/symlink/ads1015.pdf,,C193969,
 U11 ,1,NUP4202,Package_TO_SOT_SMD:SOT-363_SC-70-6,http://www.onsemi.com/pub_link/Collateral/NUP4202W1-D.PDF,,C89319,
-U12 ,1,PCF8574,Package_SO:SSOP-20_4.4x6.5mm_P0.65mm,http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf,,C57790,
+U12 ,1,PCF8574,Package_SO:SSOP-20_5.3x7.2mm_P0.65mm,http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf,,C57790,
 U2 ,1,B1212,Converter_DCDC:Converter_DCDC_muRata_CRE1xxxxxxSC_THT,http://power.murata.com/datasheet?/data/power/ncl/kdc_cre1.pdf,,C5127060,
 U3 ,1,AMS1117-5.0,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,5.0v,C6187,
 U4 ,1,AMS1117-3.3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,http://www.advanced-monolithic.com/pdf/ds1117.pdf,3.3v,C6186,
