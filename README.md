@@ -2,7 +2,8 @@
 An open source Arduino ESP32 MPPT Solar Charge Controller firmware equipped with charging algorithms, WiFi, LCD menus &amp; more!
 Stay tuned for the design release and video tutorial.
 
-Orginal project found here https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE
+Orginal Firmware project found here https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE
+Oringal Hardware project found here https://drive.google.com/drive/folders/1Sd2jWAb-F8NAXlJ6PLdhcnPDQV0alD15?usp=sharing
 
 <div align="center">
 <img src="https://github.com/jharvey/Charge_Controller/raw/master/export/V0.1/Charge_Controller.png" alt="FUGU MPPT Charge Controller" width="600" />
