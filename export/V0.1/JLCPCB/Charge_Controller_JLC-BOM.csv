@@ -1,5 +1,5 @@
 Comment,Designator,Footprint,LCSC
-"100nf","C1,C3,C4,C11,C12,C13,C20,C23,C25,C26,C27","Capacitor_SMD:C_0805_2012Metric","C28233"
+"100nf","C1,C3,C4,C11,C12,C13,C20,C23,C25,C26,C27,C28","Capacitor_SMD:C_0805_2012Metric","C28233"
 "10uf","C10","Capacitor_SMD:C_0805_2012Metric","C15850"
 "100uf","C14,C16","Capacitor_SMD:CP_Elec_8x10","C445063"
 "33nf","C15,C17","Capacitor_SMD:C_0805_2012Metric","C53175"
@@ -47,7 +47,7 @@ Comment,Designator,Footprint,LCSC
 "LEFT","SW2","Button_Switch_SMD:SW_SPST_EVQQ2","C318884"
 "BACK","SW3","Button_Switch_SMD:SW_SPST_EVQQ2","C318884"
 "SELECT","SW4","Button_Switch_SMD:SW_SPST_EVQQ2","C318884"
-"ACS712-30A","U1","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C9932"
+"Hall Amp Sense","U1","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C2930869"
 "ADS1015","U10","Package_SO:TSSOP-10_3x3mm_P0.5mm","C193969"
 "NUP4202","U11","Package_TO_SOT_SMD:SOT-363_SC-70-6","C89319"
 "PCF8574","U12","Package_SO:SSOP-20_5.3x7.2mm_P0.65mm","C57790"

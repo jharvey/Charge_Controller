@@ -1,0 +1,8 @@
+Fugu firmware video
+https://www.youtube.com/watch?v=ShXNJM6uHLM&t=16s
+
+2:40 he notes it's operating at 39kHz. 
+3:00 he mentiond the B1212 DC isolation 
+8:30 he mentions coil32.net for turns prediction tool for toroid calcs. 
+
+
