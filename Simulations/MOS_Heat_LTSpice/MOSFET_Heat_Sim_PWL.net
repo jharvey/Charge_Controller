@@ -1,0 +1,20 @@
+* C:\Users\MyPC\Desktop\Charge_Controller\Simulations\MOS_Heat_LTSpice\MOSFET_Heat_Sim_PWL.asc
+M1 Vmid Vlo_g 0 0 IPB027N10N3
+M2 Vsup Vhi_g Vmid Vmid IPB027N10N3
+R1 Vout 0 1
+V1 Vsup 0 12 Rser=0.1 Cpar=0.1u
+V2 Vlp 0 PWL file=Ulow_PWL.txt
+R2 Vhi_g Vhp 1
+R3 Vlo_g Vlp 1
+R4 Vhi_g 0 1k
+R5 Vlo_g 0 1k
+C1 P001 0 470µ
+R6 Vout P001 0.01
+L1 Vmid Vout 64µ
+V3 Vhp 0 PWL file=UHi_PWL.txt
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\MyPC\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 1ms startup
+.backanno
+.end
