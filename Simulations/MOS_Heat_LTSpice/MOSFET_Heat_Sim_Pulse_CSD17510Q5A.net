@@ -1,0 +1,18 @@
+* C:\Users\MyPC\Desktop\Charge_Controller\Simulations\MOS_Heat_LTSpice\MOSFET_Heat_Sim_Pulse_CSD17510Q5A.asc
+R1 P001 0 1
+V1 Vsup 0 24 Rser=0.01 Cpar=0.1u
+V2 Vlp 0 PULSE(0 5 0.0000153 16n 16n 0.0000100 0.0000256)
+R2 Vhi_g Vhp 100
+R3 Vlo_g Vlp 100
+R4 Vhi_g Vmid 100k
+R5 Vlo_g 0 100k
+C1 P001 0 470µ V=100 Irms=1.88 Rser=0.013 Lser=6.47n mfg="Würth Elektronik" pn="860040880011 WCAP-ATUL 16x35,5" type="Al electrolytic"
+L1 Vmid P001 65µ Ipk=17.2 Rser=0.01313 Rpar=21316 Cpar=20.57p mfg="Würth Elektronik" pn="7443783533650 WE-HCFT 3533"
+V3 Vhp Vmid PULSE(0 5 0 16n 16n 0.0000150 0.0000256)
+XU1 Vsup Vhi_g Vmid CSD17510Q5A
+XU2 Vmid Vlo_g 0 CSD17510Q5A
+C2 NC_01 0 0.1µ V=100 Irms=0 Rser=0.02 Lser=800p mfg="Würth Elektronik" pn="885012206120 WCAP-CSGP 0603" type="X7R"
+.tran 3ms startup
+.lib C:\Users\MyPC\Desktop\Charge_Controller\Simulations\MOS_Heat_LTSpice\CSD17510Q5A.spice.mod
+.backanno
+.end
