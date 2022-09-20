@@ -1,3 +1,7 @@
 /*.kicad_pcb-bak
 /*.sch-bak
 Charge_Controller-backups
+/Simulations/MOS_Heat_LTSpice/*.plt
+/Simulations/MOS_Heat_LTSpice/*.raw
+/Simulations/MOS_Heat_LTSpice/*.log
+/Lib/*.bak

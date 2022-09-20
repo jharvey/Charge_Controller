@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "LCM-S01602DTR_A")(type "Legacy")(uri "${KIPRJMOD}/Lib/LCM-S01602DTR_A.lib")(options "")(descr ""))
+  (lib (name "LCM-S01602DTR_A")(type "KiCad")(uri "${KIPRJMOD}/Lib/LCM-S01602DTR_A.kicad_sym")(options "")(descr ""))
+  (lib (name "7443783533650_inductor")(type "KiCad")(uri "${KIPRJMOD}/Lib/7443783533650_inductor.kicad_sym")(options "")(descr ""))
 )

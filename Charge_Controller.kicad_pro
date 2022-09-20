@@ -395,7 +395,6 @@
         "nets": [
           "+3.3VA",
           "/12V",
-          "/3.3V",
           "/5.0V",
           "/A0",
           "/A1",
@@ -477,11 +476,9 @@
           "Net-(J30-Pad1)",
           "Net-(J31-Pad1)",
           "Net-(J32-Pad1)",
-          "Net-(J36-Pad2)",
           "Net-(J9-Pad2)",
           "Net-(J9-Pad3)",
           "Net-(LED1-Pad1)",
-          "Net-(LED2-Pad2)",
           "Net-(Q5-Pad1)",
           "Net-(Q5-Pad2)",
           "Net-(Q6-Pad1)",
@@ -596,7 +593,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "Pcbnew",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,

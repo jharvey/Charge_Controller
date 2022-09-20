@@ -1,0 +1,20 @@
+* C:\Users\MyPC\Desktop\Charge_Controller\Simulations\MOS_Heat_LTSpice\MOSFET_Heat_Sim_Pulse_IRFH5207_as_NCE8295AK.asc
+R1 Vout N001 0.375
+V1 Vsup 0 30 Rser=0.01 Cpar=0.1u
+V2 Vlp 0 PULSE(0 5 0.0000153 16n 16n 0.0000100 0.0000256)
+R2 Vhi_g Vhp 100
+R3 Vlo_g Vlp 100
+R4 Vhi_g Vmid 100k
+R5 Vlo_g 0 100k
+C1 Vout 0 470µ V=100 Irms=1.88 Rser=0.013 Lser=6.47n mfg="Würth Elektronik" pn="860040880011 WCAP-ATUL 16x35,5" type="Al electrolytic"
+L1 Vmid Vout 65µ Ipk=17.2 Rser=0.01313 Rpar=21316 Cpar=20.57p mfg="Würth Elektronik" pn="7443783533650 WE-HCFT 3533"
+V3 Vhp Vmid PULSE(0 5 0 16n 16n 0.0000150 0.0000256)
+V4 N001 0 10.4 Rser=.01 Cpar=0.1u
+M§Q2 Vsup Vhi_g Vmid Vmid IRFH5207
+M§Q3 Vmid Vlo_g 0 0 IRFH5207
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\MyPC\Documents\LTspiceXVII\lib\cmp\standard.mos
+.tran 3ms startup
+.backanno
+.end

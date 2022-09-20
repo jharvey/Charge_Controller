@@ -1,4 +1,6 @@
 (fp_lib_table
   (lib (name "Phoenix_10.16_terminal_1709681")(type "KiCad")(uri "${KIPRJMOD}/Lib/Phoenix_10.16_terminal_1709681.pretty")(options "")(descr ""))
   (lib (name "LCD")(type "KiCad")(uri "${KIPRJMOD}/lib/LCD.pretty")(options "")(descr ""))
+  (lib (name "7443783533650_inductor")(type "KiCad")(uri "${KIPRJMOD}/Lib/7443783533650_inductor.pretty")(options "")(descr ""))
+  (lib (name "Fuse_Holder")(type "KiCad")(uri "${KIPRJMOD}/Lib/Fuse_Holder.pretty")(options "")(descr ""))
 )
