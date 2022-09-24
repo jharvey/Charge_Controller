@@ -5597,8 +5597,8 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5908da5b-f09f-463b-aed1-fd4ded7acd22)
   )
-  (text "Q2 watts prediction\nW from Rds up to 2.6mohm * 35A^2 = 3W\n\n16nS rise + 62nS fall = 78nS transition time per pulse\nAt 39kHz that's 3mS of transition time per second. \nW from switching aprox 16nS +  "
-    (at 20.32 195.58 0)
+  (text "Q2 watts prediction\nW from Rds up to 2.6mohm * 35A^2 = 3W so it will have at least 3W at 35A.\n\n16nS rise + 62nS fall = 78nS transition time per pulse\nAt 39kHz that's 3mS of transition time per second. \nLTSpice simulaiton predicts Q2 will generate 5W at 27A.\nLTSpice also predicts Q3 will generate 2W at 27A.  \nSo less then 10W total is expected at 35A.\n\nL11 datasheet notes a temperature rise based on amps. "
+    (at 29.845 200.66 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 6134eb42-53ce-45bd-8cfd-f91a58115488)
   )
